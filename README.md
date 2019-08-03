@@ -1,0 +1,2 @@
+# gmi
+Global Media Initiative
